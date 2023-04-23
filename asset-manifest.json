@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/chat/static/css/main.2dd977b4.css",
-    "main.js": "/chat/static/js/main.4173fd0b.js",
+    "main.css": "/chat/static/css/main.d39e3eec.css",
+    "main.js": "/chat/static/js/main.501f2ab4.js",
     "static/media/chatGMGavatar.jpg": "/chat/static/media/chatGMGavatar.916df2806ad396927748.jpg",
     "static/media/chatGMG-mosaic.jpg": "/chat/static/media/chatGMG-mosaic.67c21bf9f8f5a5d92fd4.jpg",
     "static/media/soehne-halbfett.woff2": "/chat/static/media/soehne-halbfett.d4509e1608982f0480e9.woff2",
@@ -9,11 +9,11 @@
     "static/media/soehne-buch.woff2": "/chat/static/media/soehne-buch.b4aeb57497a50118f8f1.woff2",
     "static/media/soehne-mono-buch.woff2": "/chat/static/media/soehne-mono-buch.b88141597b75fa6d0166.woff2",
     "index.html": "/chat/index.html",
-    "main.2dd977b4.css.map": "/chat/static/css/main.2dd977b4.css.map",
-    "main.4173fd0b.js.map": "/chat/static/js/main.4173fd0b.js.map"
+    "main.d39e3eec.css.map": "/chat/static/css/main.d39e3eec.css.map",
+    "main.501f2ab4.js.map": "/chat/static/js/main.501f2ab4.js.map"
   },
   "entrypoints": [
-    "static/css/main.2dd977b4.css",
-    "static/js/main.4173fd0b.js"
+    "static/css/main.d39e3eec.css",
+    "static/js/main.501f2ab4.js"
   ]
 }
