@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/chat/static/css/main.9873c7f1.css",
+    "main.css": "/chat/static/css/main.b8e6bdde.css",
     "main.js": "/chat/static/js/main.2dc40333.js",
     "static/media/chatGMGavatar.jpg": "/chat/static/media/chatGMGavatar.916df2806ad396927748.jpg",
     "static/media/chatGMG-mosaic.jpg": "/chat/static/media/chatGMG-mosaic.67c21bf9f8f5a5d92fd4.jpg",
@@ -9,11 +9,11 @@
     "static/media/soehne-buch.woff2": "/chat/static/media/soehne-buch.b4aeb57497a50118f8f1.woff2",
     "static/media/soehne-mono-buch.woff2": "/chat/static/media/soehne-mono-buch.b88141597b75fa6d0166.woff2",
     "index.html": "/chat/index.html",
-    "main.9873c7f1.css.map": "/chat/static/css/main.9873c7f1.css.map",
+    "main.b8e6bdde.css.map": "/chat/static/css/main.b8e6bdde.css.map",
     "main.2dc40333.js.map": "/chat/static/js/main.2dc40333.js.map"
   },
   "entrypoints": [
-    "static/css/main.9873c7f1.css",
+    "static/css/main.b8e6bdde.css",
     "static/js/main.2dc40333.js"
   ]
 }
