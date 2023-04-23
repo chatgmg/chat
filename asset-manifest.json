@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/ChatGMG/static/css/main.36501ef8.css",
+    "main.js": "/ChatGMG/static/js/main.aa9bd9fc.js",
+    "static/media/chatGMGavatar.jpg": "/ChatGMG/static/media/chatGMGavatar.916df2806ad396927748.jpg",
+    "static/media/chatGMG-mosaic.jpg": "/ChatGMG/static/media/chatGMG-mosaic.67c21bf9f8f5a5d92fd4.jpg",
+    "static/media/soehne-halbfett.woff2": "/ChatGMG/static/media/soehne-halbfett.d4509e1608982f0480e9.woff2",
+    "static/media/soehne-kraftig.woff2": "/ChatGMG/static/media/soehne-kraftig.0458ec44ace9f2f41fe4.woff2",
+    "static/media/soehne-buch.woff2": "/ChatGMG/static/media/soehne-buch.b4aeb57497a50118f8f1.woff2",
+    "static/media/soehne-mono-buch.woff2": "/ChatGMG/static/media/soehne-mono-buch.b88141597b75fa6d0166.woff2",
+    "index.html": "/ChatGMG/index.html",
+    "main.36501ef8.css.map": "/ChatGMG/static/css/main.36501ef8.css.map",
+    "main.aa9bd9fc.js.map": "/ChatGMG/static/js/main.aa9bd9fc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.36501ef8.css",
+    "static/js/main.aa9bd9fc.js"
+  ]
+}
